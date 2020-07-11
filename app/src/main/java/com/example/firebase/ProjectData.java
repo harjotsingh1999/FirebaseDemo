@@ -20,5 +20,19 @@ public class ProjectData {
         this.imageUrl = imageUrl;
     }
 
+    public String getTitle() {
+        return title;
+    }
 
+    public String getDescription() {
+        return description;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public String getUserId() {
+        return userId;
+    }
 }
